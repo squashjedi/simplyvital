@@ -27,9 +27,9 @@ if (file_exists(dirname(__FILE__) . '/local.php')) {
     define( 'DB_HOST', 'localhost' );
 } else {
     // Live database settings
-    define( 'DB_NAME', 'oq4i5rwrtyperotjerh' );
-    define( 'DB_USER', 'root' );
-    define( 'DB_PASSWORD', '' );
+    define( 'DB_NAME', 'simplyvital_db' );
+    define( 'DB_USER', 'admin' );
+    define( 'DB_PASSWORD', 'Jansher131269!' );
     define( 'DB_HOST', 'localhost' );
 }
 
