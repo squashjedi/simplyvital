@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 21st October 2019 1:23 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.22
+WORDPRESS:	5.2.4
+PHP INFO:	7.1.30 | SAPI: fpm-fcgi
+SERVER:		nginx/1.12.2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 22MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20191021_simplyvital_72d00cec11689adb9425_20191021132302_database.sql
+SQL FILE SIZE: 2.65MB (2778467)
+SQL FILE TIME: 2019-10-21 13:23:29
+SQL RUNTIME: 0.51 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Users/paul/Code/simplyvital
+ARCHIVE FILE: 20191021_simplyvital_72d00cec11689adb9425_20191021132302_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	95.21MB
+STATS:	Dirs 738 | Files 6,088
+SQL ADDED: 20191021_simplyvital_72d00cec11689adb9425_20191021132302_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6826
+    [filename] => /Users/paul/Code/simplyvital/wp-snapshots/tmp/20191021_simplyvital_72d00cec11689adb9425_20191021132302_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6825
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 32.58MB
+ARCHIVE RUNTIME: 34.31 sec.
+MEMORY STACK: 24MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /Users/paul/Code/simplyvital/wp-snapshots/tmp/20191021_simplyvital_72d00cec11689adb9425_20191021132302_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.65MB
+INSTALLER FILE: 60.53KB
+ARCHIVE FILE: 33.92MB 
+EXPECTED FILE/DIRECTORY COUNT: 6,826
+ACTUAL FILE/DIRECTORY COUNT: 6,825
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 43.50 sec.
+PEAK PHP MEMORY USED: 24MB
+DONE PROCESSING => 20191021_simplyvital 21st October 2019 1:24 pm
+
